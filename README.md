@@ -1,7 +1,3 @@
-# Research Tools
-
-Resources for Music and Computer-related Research
-
 ## Resources
 
 The data is on
@@ -38,13 +34,24 @@ Entries marked with (\*) require login.
     \|
     <a href="https://www.researchgate.net/journal/Journal-of-Mathematics-and-Music-1745-9737" target="_blank">here</a>
     (\*)  
+-   Journal Of Network Music And Arts (JONMA):
+    <a href="https://commons.library.stonybrook.edu/jonma/" target="_blank">here</a>  
 -   Journal Of New Music Research (JNMR):
     <a href="https://www-tandfonline-com.proxy.library.nyu.edu/loi/nnmr20" target="_blank">here</a>
     (\*)  
 -   Journal Of Sonic Studies (JSS):
     <a href="https://www.researchcatalogue.net/view/558606/558607" target="_blank">here</a>  
+-   Journal Of The Audio Engineering Society (JAES):
+    <a href="https://www.aes.org/journal/" target="_blank">here</a>
+    (\*)  
+-   Journal Of The Audio Engineering Society (JAES):
+    <a href="https://www.aes.org/journal/" target="_blank">here</a>
+    (\*)  
 -   Journal Of The Canadian Electroacoustic Community (eContact!):
     <a href="https://econtact.ca/" target="_blank">here</a>  
+-   Journals Of The University Of California Press (UCPRESS):
+    <a href="https://online.ucpress.edu/journals" target="_blank">here</a>
+    (\*)  
 -   Leonardo (LEONARDO):
     <a href="https://direct.mit.edu/leon" target="_blank">here</a>
     (\*)  
@@ -71,14 +78,45 @@ Entries marked with (\*) require login.
 -   Sound Studies:
     <a href="https://www-tandfonline-com.proxy.library.nyu.edu/loi/rfso20" target="_blank">here</a>
     (\*)  
+-   The Conference And The Journal Of The Korea Electro-Acoustic Music
+    Society (The KEAMSAC and Emille Project):
+    <a href="http://keams.org/emille/emille.html" target="_blank">here</a>
+    \| <a href="http://computermusic.asia/" target="_blank">here</a>  
 -   Transactions Of International Society For Music Information
     Retrieval (TISMIR):
     <a href="https://transactions.ismir.net/" target="_blank">here</a>
 
+### Conference
+
+-   Audio Mostly:
+    <a href="https://audiomostly.com/" target="_blank">here</a>  
+-   Australasian Computer Music Conference (ACMC):
+    <a href="https://computermusic.org.au/conferences/" target="_blank">here</a>  
+-   International Computer Music Conference (ICMC):
+    <a href="https://quod.lib.umich.edu/i/icmc/" target="_blank">here</a>  
+-   International Conference On Auditory Display (ICAD):
+    <a href="https://smartech.gatech.edu/handle/1853/49750" target="_blank">here</a>
+    \|
+    <a href="https://icad.org/proceedings/" target="_blank">here</a>  
+-   International Conference On Digital Audio Effects (DAFx):
+    <a href="http://www.dafx.de/paper-archive/" target="_blank">here</a>  
+-   International Society For Music Information Retrieval (ISMIR):
+    <a href="https://ismir.net/conferences" target="_blank">here</a>  
+-   Internationales Festival Für Medienkunst (CYNET):
+    <a href="https://www.cynetart.de/" target="_blank">here</a>  
+-   Jeu De Temps / Times Play (JTTP):
+    <a href="https://jttp.sonus.ca/" target="_blank">here</a>  
+-   Linux Audio Conference (LAU):
+    <a href="https://linuxaudio.org/lac.html" target="_blank">here</a>  
+-   New Interfaces For Musical Expression (NIME):
+    <a href="https://www.nime.org/archives/" target="_blank">here</a>  
+-   Sound And Music Computing (SMC):
+    <a href="https://zenodo.org/communities/smc/" target="_blank">here</a>  
+-   Web Audio Conference (WAC):
+    <a href="https://webaudioconf.com/proceedings/" target="_blank">here</a>
+
 ### List-Serv
 
--   Society For Electro-Acoustic Music In The United States (SEAMUS):
-    <a href="https://seamusonline.org/" target="_blank">here</a> (\*)  
 -   Canadian Electroacoustic Community (CEC):
     <a href="https://groups.google.com/g/cec-conference" target="_blank">here</a>
     (\*)  
@@ -102,35 +140,10 @@ Entries marked with (\*) require login.
 -   Smc Network List:
     <a href="https://groups.google.com/a/llista.upf.edu/g/smcnetwork" target="_blank">here</a>
     (\*)  
+-   Society For Electro-Acoustic Music In The United States (SEAMUS):
+    <a href="https://seamusonline.org/" target="_blank">here</a> (\*)  
 -   Supercollider List Archives (sc-users):
     <a href="http://www.listarc.bham.ac.uk/marchives/sc-users/" target="_blank">here</a>
-
-### Conference
-
--   Audio Mostly:
-    <a href="https://audiomostly.com/" target="_blank">here</a>  
--   Australasian Computer Music Conference (ACMC):
-    <a href="https://computermusic.org.au/conferences/" target="_blank">here</a>  
--   International Computer Music Conference (ICMC):
-    <a href="https://quod.lib.umich.edu/i/icmc/" target="_blank">here</a>  
--   International Conference On Auditory Display (ICAD):
-    <a href="https://smartech.gatech.edu/handle/1853/49750" target="_blank">here</a>
-    \|
-    <a href="https://icad.org/proceedings/" target="_blank">here</a>  
--   International Conference On Digital Audio Effects (DAFx):
-    <a href="http://www.dafx.de/paper-archive/" target="_blank">here</a>  
--   International Society For Music Information Retrieval (ISMIR):
-    <a href="https://ismir.net/conferences" target="_blank">here</a>  
--   Jeu De Temps / Times Play (JTTP):
-    <a href="https://jttp.sonus.ca/" target="_blank">here</a>  
--   Linux Audio Conference (LAU):
-    <a href="https://linuxaudio.org/lac.html" target="_blank">here</a>  
--   New Interfaces For Musical Expression (NIME):
-    <a href="https://www.nime.org/archives/" target="_blank">here</a>  
--   Sound And Music Computing (SMC):
-    <a href="https://zenodo.org/communities/smc/" target="_blank">here</a>  
--   Web Audio Conference (WAC):
-    <a href="https://webaudioconf.com/proceedings/" target="_blank">here</a>
 
 ### Catalogue
 
@@ -140,10 +153,13 @@ Entries marked with (\*) require login.
     <a href="https://dblp.uni-trier.de/" target="_blank">here</a>  
 -   Electroacoustic Resource Site (EARS):
     <a href="http://www.ears.dmu.ac.uk/" target="_blank">here</a>  
+-   Iain Mccurdy’S Website:
+    <a href="http://www.iainmccurdy.org/index.html" target="_blank">here</a>  
 -   Mir Conference Deadlines:
     <a href="http://mir-conferences.audiocontentanalysis.org/?sub=ML,SP,DM" target="_blank">here</a>  
 -   Smc Network:
-    <a href="https://conferences.smcnetwork.org/" target="_blank">here</a>  
+    <a href="https://conferences.smcnetwork.org/" target="_blank">here</a>
+    \| <a href="https://smcnetwork.org/" target="_blank">here</a>  
 -   Soundsoftware Project:
     <a href="https://code.soundsoftware.ac.uk/" target="_blank">here</a>  
 -   The Big Artist Opportunities List:
@@ -154,6 +170,11 @@ Entries marked with (\*) require login.
 -   Algorithmic Musicology Team (Algomus):
     <a href="http://algomus.fr/" target="_blank">here</a> \|
     <a href="https://www.cristal.univ-lille.fr/equipes/algomus/publications/" target="_blank">here</a>  
+-   Auditory List (McGill University):
+    <a href="http://www.auditory.org/" target="_blank">here</a> (\*)  
+-   Degem Deutsche Gesellschaft Für Elektroakustische Musik E.V.
+    (DEGEM): <a href="https://www.degem.de/" target="_blank">here</a> \|
+    <a href="https://second.wiki/wiki/deutsche_gesellschaft_fc3bcr_elektroakustische_musik" target="_blank">here</a>  
 -   Fundacion Destellos:
     <a href="http://www.fundestellos.org/" target="_blank">here</a>  
 -   International Computer Music Association (ICMA):
@@ -176,10 +197,25 @@ Entries marked with (\*) require login.
 -   Theory And Techniques Of Electronic Music:
     <a href="http://msp.ucsd.edu/techniques.htm" target="_blank">here</a>
 
+### Database
+
+-   Center For Art And Media Karlsruhe (ZKM):
+    <a href="https://zkm.de/en/collection-archives/video-audio" target="_blank">here</a>
+    \| <a href="https://zkm.de" target="_blank">here</a>  
+-   Free Sound Fx (Free SFX):
+    <a href="https://www.freesfx.co.uk/" target="_blank">here</a>  
+-   International Documentation Of Electroacoustic Music (EMDOKU):
+    <a href="https://www.emdoku.de/en" target="_blank">here</a>  
+-   See This Sound:
+    <a href="http://see-this-sound.at" target="_blank">here</a>  
+-   Sonus: <a href="https://sonus.ca/" target="_blank">here</a>
+
 ### Blog
 
 -   Center For Visual Music (CVM):
     <a href="http://www.centerforvisualmusic.org/" target="_blank">here</a>  
+-   Jack Schaedler’S Circles And Sines (DFT):
+    <a href="https://jackschaedler.github.io/circles-sines-signals/" target="_blank">here</a>  
 -   Music Radar:
     <a href="https://www.musicradar.com/" target="_blank">here</a>  
 -   Sound And Music:
@@ -189,6 +225,8 @@ Entries marked with (\*) require login.
 
 ### Courses
 
+-   Brad Garton’S Youtube Channel:
+    <a href="https://www.youtube.com/channel/UCDsDdlhGq1l0mK_d3ECGj4A/videos" target="_blank">here</a>  
 -   Classes Taught By Miller Puckette:
     <a href="http://msp.ucsd.edu/syllabi/index.htm" target="_blank">here</a>  
 -   Computer Music Center Courses At Columbia University (CMC Cources):
@@ -196,20 +234,14 @@ Entries marked with (\*) require login.
 -   Supercollider Tutorial:
     <a href="http://composerprogrammer.com/teaching/supercollider/sctutorial/tutorial.html" target="_blank">here</a>
 
-### Database
-
--   Free Sound Fx (Free SFX):
-    <a href="https://www.freesfx.co.uk/" target="_blank">here</a>  
--   See This Sound:
-    <a href="http://see-this-sound.at" target="_blank">here</a>  
--   Sonus: <a href="https://sonus.ca/" target="_blank">here</a>
-
 ### Institute
 
 -   Institute For Research And Coordination In Acoustics/Music (IRCAM):
     <a href="https://www.ircam.fr/" target="_blank">here</a> (\*)  
 -   Institute Of Electronic Music And Acoustics (IEM):
     <a href="https://iem.kug.ac.at/" target="_blank">here</a> (\*)  
+-   Maynooth University Research Archive Library (MURAL):
+    <a href="http://mural.maynoothuniversity.ie/" target="_blank">here</a>  
 -   Spatial Sound Institute (SSI):
     <a href="https://spatialsoundinstitute.com/" target="_blank">here</a>
 
@@ -224,6 +256,23 @@ Entries marked with (\*) require login.
 -   O’Reilly:
     <a href="https://learning-oreilly-com.proxy.library.nyu.edu/" target="_blank">here</a>
     (\*)
+
+### Festival
+
+-   Festival And Platform For Adventurous Music & Art (CMT):
+    <a href="https://www.ctm-festival.de/" target="_blank">here</a>  
+-   Transmediale:
+    <a href="https://transmediale.de/" target="_blank">here</a>
+
+### Foundation
+
+-   Foundation For Emerging Technologies And Arts (FETA):
+    <a href="https://fetafoundation.org/" target="_blank">here</a>
+
+### Plugins
+
+-   The Vamp Audio Analysis Plugin System (VAMP):
+    <a href="https://vamp-plugins.org/" target="_blank">here</a>
 
 ## Authors
 
